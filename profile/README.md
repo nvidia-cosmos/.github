@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/nvidia-cosmos-header.png" alt="NVIDIA Cosmos Header">
+    <img src="https://raw.githubusercontent.com/nvidia-cosmos/cosmos-predict1/main/assets/nvidia-cosmos-header.png" alt="NVIDIA Cosmos Header">
 </p>
 
 ### Cosmos World Foundation Model Family
