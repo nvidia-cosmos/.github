@@ -2,8 +2,8 @@
 
 Cosmos World Foundation Models come in three model types which can all be customized in post-training: [cosmos-predict](https://github.com/nvidia-cosmos/cosmos-predict1), [cosmos-transfer](https://github.com/nvidia-cosmos/cosmos-transfer1), and [cosmos-reason](https://github.com/nvidia-cosmos/cosmos-reason1):
 
-|  | Predict | Transfer | Reason |
-| ----- | :---: | :---: | :---: |
+|  | [Predict](https://github.com/nvidia-cosmos/cosmos-predict1) | [Transfer](https://github.com/nvidia-cosmos/cosmos-transfer1) | [Reason](https://github.com/nvidia-cosmos/cosmos-reason1) |
+|--|---------|----------|--------|
 | **Type** | World Generation | Multi-Controlnet | Reasoning VLM |
 | **Function** | Predict novel future frames given initial frames  | Transfer existing control frames into photoreal frames within a video clip | Reason against frames within a video clip |
 | **Use Cases** | Data Generation & Policy Evaluation | Data Augmentation | Data Curation |
