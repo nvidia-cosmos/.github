@@ -41,8 +41,6 @@ Cosmos World Foundation Models come in three model types which can all be custom
   </tr>
 </table>
 
-# 
-
 # Use Cases in Physical AI Development
 
 Our world foundation models are purpose-built to accelerate improving performance in downstream model tasks in various stages, as illustrated here in the flywheel.
