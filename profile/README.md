@@ -45,4 +45,4 @@ Cosmos World Foundation Models come in three model types which can all be custom
 
 Our world foundation models are purpose-built to accelerate improving performance in downstream model tasks in various stages, as illustrated here in the flywheel.
 
-![Cosmos Data Flywheel](DataFlywheel.jpg)
+![Cosmos Data Flywheel](./DataFlywheel.png)
