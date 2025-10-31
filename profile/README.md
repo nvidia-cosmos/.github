@@ -43,6 +43,9 @@ Cosmos World Foundation Models come in three model types which can all be custom
   </tr>
 </table>
 
+# NVIDIA Cosmos Cookbook
+The [Cosmos Cookbook](https://github.com/nvidia-cosmos/cosmos-cookbook) offers developers step-by-step recipes and post-training scripts to quickly build, customize, and deploy NVIDIA’s Cosmos world foundation models for robotics and autonomous systems.
+
 # Use Cases in Physical AI Development
 
 Our world foundation models are purpose-built to accelerate improving performance in downstream model tasks in various stages, as illustrated here in the flywheel.
