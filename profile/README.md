@@ -9,7 +9,7 @@ Cosmos World Foundation Models come in three model types which can all be custom
     <th></th>
     <th><center><a href="https://github.com/nvidia-cosmos/cosmos-predict2.5">Predict</a></center></th>
     <th><center><a href="https://github.com/nvidia-cosmos/cosmos-transfer2.5">Transfer</a></center></th>
-    <th><center><a href="https://github.com/nvidia-cosmos/cosmos-reason1">Reason</a></center></th>
+    <th><center><a href="https://github.com/nvidia-cosmos/cosmos-reason2">Reason</a></center></th>
   </tr>
   <tr>
     <td align="center"><b>Type</b></td>
