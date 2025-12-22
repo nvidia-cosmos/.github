@@ -27,13 +27,13 @@ Cosmos World Foundation Models come in three model types which can all be custom
     <td align="center"><b>Use Cases</b></td>
     <td align="center">Data Generation &amp; Policy Evaluation</td>
     <td align="center">Data Augmentation</td>
-    <td align="center">Data Curation</td>
+    <td align="center">Data Curation, Robot Planning and Policy &amp; Vision AI Agents</td>
   </tr>
   <tr>
     <td align="center"><b>Inputs</b></td>
     <td align="center">Text, Image, Video</td>
     <td align="center">Multiple Video Modalities such as RGB, Depth, Segmentation, and more.</td>
-    <td align="center">Video &amp; Text</td>
+    <td align="center">Video, Image &amp; Text</td>
   </tr>
   <tr>
     <td align="center"><b>Outputs</b></td>
