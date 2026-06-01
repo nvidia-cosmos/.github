@@ -9,7 +9,7 @@
 
 [Cosmos 3](https://www.nvidia.com/en-us/ai/cosmos/) unifies language, images, video, audio, and actions in a single architecture, enabling developers to build agents that can understand, reason, simulate, and act in the physical world. Please use [the new repository](https://www.nvidia.com/en-us/ai/cosmos/) as the source of truth for the latest code, models, documentation, and updates.
 
-# Cosmos 2 Models
+# Cosmos 2
 
 Cosmos World Foundation Models come in three model types which can all be customized in post-training: [cosmos-predict](https://github.com/nvidia-cosmos/cosmos-predict2.5), [cosmos-transfer](https://github.com/nvidia-cosmos/cosmos-transfer2.5), and [cosmos-reason](https://github.com/nvidia-cosmos/cosmos-reason2):
 
