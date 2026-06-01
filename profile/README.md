@@ -2,6 +2,15 @@
 
 [NVIDIA Cosmos™](https://www.nvidia.com/en-us/ai/cosmos/) is a platform purpose-built for physical AI, featuring state-of-the-art generative world foundation models (WFMs), robust guardrails, and an accelerated data processing and curation pipeline. Designed specifically for real-world systems, Cosmos enables developers to rapidly advance physical AI applications such as autonomous vehicles (AVs), robots, and video analytics AI agents.
 
+# Cosmos 3
+[Cosmos 3](https://www.nvidia.com/en-us/ai/cosmos/) is live! We’re excited to share that Cosmos 3 has launched — NVIDIA’s next-generation family of open omnimodal world foundation models for Physical AI. As part of this launch, the Cosmos GitHub repositories have moved to [the main NVIDIA GitHub organization](https://github.com/nvidia/cosmos):
+
+👉 https://github.com/nvidia/cosmos
+
+[Cosmos 3](https://www.nvidia.com/en-us/ai/cosmos/) unifies language, images, video, audio, and actions in a single architecture, enabling developers to build agents that can understand, reason, simulate, and act in the physical world. Please use [the new repository](https://www.nvidia.com/en-us/ai/cosmos/) as the source of truth for the latest code, models, documentation, and updates.
+
+# Cosmos 2 Models
+
 Cosmos World Foundation Models come in three model types which can all be customized in post-training: [cosmos-predict](https://github.com/nvidia-cosmos/cosmos-predict2.5), [cosmos-transfer](https://github.com/nvidia-cosmos/cosmos-transfer2.5), and [cosmos-reason](https://github.com/nvidia-cosmos/cosmos-reason2):
 
 <table align="center">
